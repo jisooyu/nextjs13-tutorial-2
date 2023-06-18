@@ -9,7 +9,9 @@ export const metadata = {
 export default function Home() {
 	return (
 		<main className='feed text-blue-900 font-bold'>
-			<h1>Creating and posting prompts of Next.js</h1>
+			<h1>
+				Creating and posting prompts of Next.js using Next-Auth and Mongoose
+			</h1>
 			<p>NextJS 13 Tutorial 2 : creating and posting prompts</p>
 		</main>
 	);
